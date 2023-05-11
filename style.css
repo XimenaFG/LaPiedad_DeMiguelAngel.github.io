@@ -1,0 +1,55 @@
+
+	h1 {
+		font-family: 'Playfair Display', serif;
+		font-size: 40px;
+		color: #B2604B;
+		}
+
+
+	.sub {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 20px;
+		font-weight: 700;
+		color: #1D1D1D;
+			}
+
+	h3  {
+		 font-family: 'Source Sans Pro', sans-serif;
+		 color: #D1CAC2;
+		 font-size: 17px;
+		 font-variant: regular;
+       
+			}
+	
+	body  {
+		 font-family: 'Source Sans Pro', sans-serif;
+		 font-size: 16px;
+			}
+
+.pie {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 12px;
+	color: #505050;
+	}
+
+
+.italic {
+  font-style: italic;
+}
+
+
+a:link, a:visited {
+  color: #D1CAC2;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #B2604B;
+  color: white;
+
+.imagentabla {
+	display: inset-inline-start;
+	}
